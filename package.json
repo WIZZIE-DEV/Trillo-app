@@ -1,0 +1,8 @@
+{
+  "name": "Trillo-app",
+  "version": "1.0.0",
+  "description": "Trillo app for hotel, flight and tours booking",
+  "main": "index.js",
+  "author": "wisdom ekeh <wisdom.dev@outlook.com>",
+  "license": "MIT"
+}
